@@ -1,6 +1,6 @@
 ---
-complexity: 1
-id: template_basic_018
+complexity: 2
+id: template_advanced_052
 ---
 ## Вопрос: Как связаны между собой понятия "работа", "инструмент", "метод" и "результат"?
 

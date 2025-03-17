@@ -1,6 +1,6 @@
 ---
-complexity: 1
-id: template_basic_032
+complexity: 2
+id: template_advanced_058
 ---
 ## Вопрос: Как связаны между собой понятия "здоровье", "образ жизни", "стресс" и "энергия"?
 

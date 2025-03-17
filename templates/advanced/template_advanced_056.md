@@ -1,6 +1,6 @@
 ---
-complexity: 1
-id: template_basic_030
+complexity: 2
+id: template_advanced_056
 ---
 ## Вопрос: Что в этом перечислении лишнее и почему?
 

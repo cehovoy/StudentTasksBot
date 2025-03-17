@@ -1,6 +1,6 @@
 ---
-complexity: 1
-id: template_basic_035
+complexity: 2
+id: template_advanced_061
 ---
 ## Вопрос: Как связаны между собой понятия "поколение", "опыт", "адаптация" и "развитие"?
 

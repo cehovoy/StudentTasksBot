@@ -1,6 +1,6 @@
 ---
-complexity: 1
-id: template_basic_019
+complexity: 2
+id: template_advanced_053
 ---
 ## Вопрос: Как связаны между собой понятия "команда", "роль", "должность" и "проект"?
 

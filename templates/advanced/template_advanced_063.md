@@ -1,6 +1,6 @@
 ---
-complexity: 1
-id: template_basic_037
+complexity: 2
+id: template_advanced_063
 ---
 ## Вопрос: Как связаны между собой понятия "миссия", "ценности", "цели" и "система"?
 

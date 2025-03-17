@@ -1,6 +1,6 @@
 ---
-complexity: 1
-id: template_basic_044
+complexity: 2
+id: template_advanced_070
 ---
 ## Вопрос: Как связаны между собой понятия "видение", "масштабность", "ресурсы" и "реализация"?
 

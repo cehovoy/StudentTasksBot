@@ -1,6 +1,6 @@
 ---
-complexity: 1
-id: template_basic_005
+complexity: 2
+id: template_advanced_051
 ---
 ## Вопрос: Как связаны между собой понятия "школа", "учебный курс", "метод" и "учитель"?
 
